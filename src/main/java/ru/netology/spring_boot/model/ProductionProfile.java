@@ -1,4 +1,4 @@
-package ru.netology.spring_boot.systemProfile;
+package ru.netology.spring_boot.model;
 
 public class ProductionProfile implements SystemProfile {
 
